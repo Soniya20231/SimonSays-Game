@@ -1,8 +1,6 @@
-Simon Says Game is a simple interactive web-based version of the classic Simon Says game.
+This web-based interactive version of the classic Simon Says game is simple to play. It has these features:
 
-Features:
-
-1.Simple and responsive design using HTML/CSS.
-2.Interactive gameplay powered by JavaScript.
-3.Tracks your score and game progress.
-4.Easy-to-play, classic memory challenge.
+* Simple and responsive design using HTML/CSS
+* Interactive gameplay powered by JavaScript
+* Tracks your score and game progress
+* Easy-to-play, classic memory challenge
